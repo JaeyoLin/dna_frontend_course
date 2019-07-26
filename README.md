@@ -34,3 +34,5 @@ $ npm install -g @vue/cli
 ```bash
 $ npm install -g @angular/cli
 ```
+
+7. Install git
