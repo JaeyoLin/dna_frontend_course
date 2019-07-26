@@ -2,8 +2,8 @@
 
 ## Setup Enviorment
 
-- Install [Node](https://nodejs.org/en/).
-- Check Node is installed.
+1. Install [Node](https://nodejs.org/en/).
+2. Check Node is installed.
 
 ```bash
 $ node -v
@@ -15,21 +15,21 @@ $ npm -v
 6.9.0
 ```
 
-- Install Development IDE [VsCode](https://code.visualstudio.com/).
+3. Install Development IDE [VsCode](https://code.visualstudio.com/).
 
-- Install [create-react-app](https://github.com/facebook/create-react-app)
+4. Install [create-react-app](https://github.com/facebook/create-react-app)
 
 ```bash
 $ npm install -g create-react-app
 ```
 
-- Install [@vue/cli](https://cli.vuejs.org/guide/installation.html)
+5. Install [@vue/cli](https://cli.vuejs.org/guide/installation.html)
 
 ```bash
 $ npm install -g @vue/cli
 ```
 
-- Install [@angular/cli](https://angular.io/guide/setup-local)
+6. Install [@angular/cli](https://angular.io/guide/setup-local)
 
 ```bash
 $ npm install -g @angular/cli
